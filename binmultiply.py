@@ -4,7 +4,7 @@ import sys
 perform mixed column and inverse mixed column operation of AES.
 input format 
 1st row of constant matrix as first 4 arguments
-any single column state matrix next 4 arguments
+any single column of state matrix as next 4 arguments
 eg:     
 python3 binmultiply.py 02 03 01 01 87 6E 46 A6
 """
